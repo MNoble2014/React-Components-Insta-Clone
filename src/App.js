@@ -12,6 +12,8 @@ import Posts from './components/Posts/Posts';
 import SearchBar from './components/SearchBar/SearchBar';
 
 // Import the dummyData
+import dummyData './dummy-data';
+
 import './App.css';
 
 const App = () => {
